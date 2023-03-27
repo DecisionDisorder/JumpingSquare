@@ -20,7 +20,7 @@
 ## 기술 관련 소개
 ###  [개발환경 및 기술 스택]
 - Unity 2022.2.5f1 + C#
-- VisualStudio 2022
+- Visual Studio 2022
 - C# .Net (Socket)
 - VCS: GitHub
 
