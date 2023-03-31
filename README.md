@@ -17,7 +17,7 @@
 마인크래프트의 점프 맵(탈출 맵)을 만들었던 과거의 추억과 현재의 기술적 학습의 방향성을 하나로 모아서 마인크래프트 점프 맵 스타일의 멀티플레이 게임을 만들자는 의도를 가지고 개발하였습니다.
 
 ### [데모 영상]
-- [![Video Label](http://img.youtube.com/vi/-E3YlSXZF98/0.jpg)](https://youtu.be/-E3YlSXZF98)
+[![Video Label](http://img.youtube.com/vi/-E3YlSXZF98/0.jpg)](https://youtu.be/-E3YlSXZF98)
 
 ## 기술 관련 소개
 ###  [개발환경 및 기술 스택]
